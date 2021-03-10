@@ -1,0 +1,4 @@
+Sitemap: https://SchisslerGroup.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
